@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://uzairscanvas.herokuapp.com",
-    "contentApiKey": "3a696dec910e8ca8569795482c"
+    "contentApiKey": "4680ca5d30b744740108e44346"
   },
   "production": {
     "apiUrl": "https://uzairscanvas.herokuapp.com",
-    "contentApiKey": "3a696dec910e8ca8569795482c"
+    "contentApiKey": "4680ca5d30b744740108e44346"
   }
 }
